@@ -178,7 +178,7 @@ li span {
 }
 
 @media (max-width: 400px) {
-  .collapse {
+  .navbar-expand .navbar-expand {
     display: flex !important;
   }
 }
