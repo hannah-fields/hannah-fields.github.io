@@ -178,7 +178,8 @@ li span {
 }
 
 @media (max-width: 400px) {
-  .container-fluid {
-    width: 100%;
+  .headshot {
+    width: 90%;
+  }
   }
 }
