@@ -177,4 +177,8 @@ li span {
   font-weight: 400;
 }
 
-
+@media {
+  .about-text {
+    width: 100%;
+  }
+}
