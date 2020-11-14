@@ -141,7 +141,7 @@ li {
 }
 
  h1 span {
-  margin: auto;
+  margin: 0 auto;
  }
 
 .headshot {
@@ -178,9 +178,7 @@ li span {
   font-weight: 400;
 }
 
-.row {
-  margin-right: 30px;
-}
+
 
 
 
