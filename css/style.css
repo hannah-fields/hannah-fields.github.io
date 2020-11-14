@@ -177,8 +177,8 @@ li span {
   font-weight: 400;
 }
 
-@media {
-  .container-fluid {
+@media (max-width: 400px) {
+  .about-text {
     width: 100%;
   }
 }
