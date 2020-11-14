@@ -177,17 +177,7 @@ li span {
   font-weight: 400;
 }
 
-@media (max-width: 700px) {
-  .navbar-nav {
-    margin: 0 auto;
-  }
-}
 
-@media (max-width: 400px) {
-  .navbar-nav {
-    margin: 0 auto;
-  }
-}
 
 
 
