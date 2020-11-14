@@ -173,9 +173,8 @@ li span {
   font-weight: 400;
 }
 
-@media (max-width: 979px){
-    .navbar-nav {
-      display: block;
-    }
+@media (max-width: 770px) {
+  .navbar {
+    display: block;
+  }
 }
-
