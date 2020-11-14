@@ -183,5 +183,9 @@ li span {
   .container-fluid {
     width: 100%;
   }
+
+  .bio {
+    font-size: smaller;
+  }
 }
 
