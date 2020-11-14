@@ -28,8 +28,6 @@ h1 span {
   background-color: white;
   padding: 0px 10px 0px 10px;
   text-transform: uppercase;
-  margin: 0 auto;
-  margin-left: 70px;
 
 }
 
@@ -123,7 +121,7 @@ a {
 }
 
 li {
-  margin-left: 15px;
+  margin-left: 5px;
   width: 100%;
   line-height: 35px;
   font-family: 'Roboto', sans-serif;
@@ -143,7 +141,7 @@ li {
 }
 
  h1 span {
-  margin: 0 auto;
+  margin: auto;
  }
 
 .headshot {
