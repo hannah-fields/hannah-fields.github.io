@@ -177,7 +177,7 @@ li span {
   font-weight: 400;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 400px) {
   .collapse {
     display: none;
   }
