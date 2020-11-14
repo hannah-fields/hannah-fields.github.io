@@ -50,7 +50,6 @@ h2 span {
 .navbar {
   background: #BE426C;
   border-bottom: 2px solid #123c69;
-  width: 100%;
 }
 
 .navbar-brand {
@@ -145,7 +144,6 @@ li {
 
  h1 span {
   margin: 0 auto;
-  text-align: center;
  }
 
 .headshot {
