@@ -182,3 +182,12 @@ li span {
     margin: 0 auto;
   }
 }
+
+@media (max-width: 400px) {
+  .navbar-nav {
+    margin: 0 auto;
+  }
+}
+
+
+
