@@ -28,7 +28,8 @@ h1 span {
   background-color: white;
   padding: 0px 10px 0px 10px;
   text-transform: uppercase;
-  margin: auto;
+  margin: 0 auto;
+  margin-left: 70px;
 
 }
 
@@ -140,6 +141,10 @@ li {
   width: 90%;
   margin: 0 auto;
 }
+
+ h1 span {
+  margin: 0 auto;
+ }
 
 .headshot {
   border-radius: 50%;
