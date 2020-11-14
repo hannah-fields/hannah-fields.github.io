@@ -78,7 +78,7 @@ h2 span {
 }
 
 .navbar-nav {
-  position: fixed;
+  margin-right: 2px;
 }
 
 img {
