@@ -178,8 +178,7 @@ li span {
 }
 
 @media (max-width: 700px) {
-  .headshot {
-    width: 90%;
-  }
+  .navbar-nav {
+    margin-left: 0 auto;
   }
 }
