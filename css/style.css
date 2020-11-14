@@ -178,14 +178,6 @@ li span {
   font-weight: 400;
 }
 
-@media (max-width: 770px)
-{
-  .container-fluid {
-    width: 100%;
-  }
 
-  .about-text {
-    font-weight: bold;
-  }
-}
+
 
