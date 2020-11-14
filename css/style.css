@@ -173,5 +173,17 @@ li span {
   font-weight: 400;
 }
 
+@media (max-width: 979px){
+    .x-nav-wrap.desktop {
+        display: block;
+    }
 
+    .x-navbar .desktop .x-nav>.menu-item {
+        display: none;
+    } 
+
+    #menu-item-176 {
+        display: block;
+    }
+}
 
