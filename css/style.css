@@ -77,6 +77,10 @@ h2 span {
 
 }
 
+.navbar-nav {
+  position: fixed;
+}
+
 img {
   display: block;
   margin: 0 auto;
@@ -173,8 +177,3 @@ li span {
   font-weight: 400;
 }
 
-@media (max-width: 770px) {
-  .navbar {
-    display: block;
-  }
-}
