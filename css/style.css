@@ -180,7 +180,7 @@ li span {
 
 @media (max-width: 770px)
 {
-  img .headshot {
+  .container-fluid {
     width: 100%;
   }
 }
