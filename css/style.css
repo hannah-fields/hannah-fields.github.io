@@ -178,3 +178,10 @@ li span {
   font-weight: 400;
 }
 
+@media (max-width: 770px)
+{
+  img .headshot {
+    width: 100%;
+  }
+}
+
