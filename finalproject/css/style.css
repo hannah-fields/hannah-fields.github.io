@@ -1,6 +1,6 @@
 body {
 	margin: 0 auto;
-	
+
 }
 
 p {
@@ -51,7 +51,8 @@ h1 {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
 	font-size: 18px;
-	line-height: 3px
+	line-height: 3px;
+	text-align: right;
 }
 
 .date {
