@@ -81,6 +81,7 @@ figcaption {
 	color: gray;
 	display: block;
 	width: 75%;
+	font-size-adjust: 12px;
 	margin-left: auto;
 	margin-right: auto;
 	padding-bottom: 10px;
