@@ -42,6 +42,7 @@ h1 {
 	font-weight: 600;
 	font-size: 28px;
 	position: absolute;
+	bottom: 8px;
 	left: 16px;
 	padding-right: 8px;
 }
