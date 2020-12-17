@@ -54,6 +54,7 @@ h1 {
 	line-height: 2px;
 	text-align: right;
 	margin: 0 auto;
+	padding-top: 12px;
 }
 
 .date {
@@ -63,6 +64,7 @@ h1 {
 	border-bottom: 2px solid #D32011;
 	text-align: right;
 	margin: 0 auto;
+	padding-top: 12px;
 }
 
 .zoe , .julia , .covid-context {
