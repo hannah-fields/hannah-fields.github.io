@@ -62,7 +62,7 @@ h1 {
 	font-size: 15px;
 	border-bottom: 2px solid #D32011;
 	text-align: right;
-	margin: auto;
+	margin: 0 auto;
 }
 
 .zoe , .julia , .covid-context {
